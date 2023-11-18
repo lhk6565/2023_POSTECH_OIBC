@@ -4,12 +4,12 @@
     <img src='poster.jpeg' width='250' height='350'>
 </p>
 
-[2023 POSTECH OIBC CHALLENGE 제5회 태양광 발전량 예측 경진대회](https://o.solarkim.com/cmpt2023)에서 대상:trophy: (1등 / 150팀)을 받은 仁義禮智信팀의 발표 자료입니다.
+[2023 POSTECH OIBC CHALLENGE 제5회 태양광 발전량 예측 경진대회](https://o.solarkim.com/cmpt2023)에서 대상:trophy: (1등 / 150팀)을 받은 성균관대학교 仁義禮智信팀의 발표 자료입니다.
 - [이형권](https://github.com/lhk6565) (산업공학과)
 - ㅇㅇㅇ (시스템경영공학과)
 - ㅇㅇㅇ (시스템경영공학과)
 - ㅇㅇㅇ (시스템경영공학과)
-- 최승준 (수학과)
+- 최승준 (수학과, 시스템경영공학과)
 
 ## 대회 소개
 - 기술로 전력 시장을 개방하는 **H Energy**와 **POSTECH 오픈이노베이션 빅데이터 센터(OIBC) 및 미래도시 연구센터(FOIC)**, **산업 인공지능 프로그램**이 함께 미래 전력 시장을 이끌어갈 인재를 발굴, 지원하기 위해 대학 및 대학원생 대상으로 제5회 OIBC CHALLENGE를 주최

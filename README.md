@@ -59,16 +59,16 @@ $I_h$ : $h$ 시간대의 예측 인센티브 <br>
 - 디렉토리 구성은 다음과 같습니다 :
 ~~~
 root
-|
-├── README.md                          # 디렉토리 안내 파일
-|
-├── 仁義禮智信_성균관대학교.pdf          # 발표 자료
-|
-├── 仁義禮智信/                         # ipynb 파일 폴더
-    ├── Inference.ipynb                # 
-    ├── Train.ipynb                    # 
-    ├── Validation_Dataset.ipynb       # 
-    ├── Weight_Inference.ipynb         # 
+│
+├── README.md                               # 디렉토리 안내 파일
+│
+├── 仁義禮智信_성균관대학교.pdf               # 발표 자료
+│
+├── 仁義禮智信/                              # ipynb 파일 폴더
+    ├── Validation_Dataset.ipynb            # 
+    ├── Train.ipynb                         #     
+    ├── Weight_Inference.ipynb              # 
+    ├── Inference.ipynb                     # 
 ~~~
 
 ## 느낀점

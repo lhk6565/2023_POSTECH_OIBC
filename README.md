@@ -8,7 +8,7 @@
 - [이형권](https://github.com/lhk6565) (성균관대학교 산업공학과)
 - [최승준](https://github.com/swanseacity) (성균관대학교 수학과, 시스템경영공학과)
 - ㅇㅇㅇ (성균관대학교 시스템경영공학과)
-- 변유정 (성균관대학교 시스템경영공학과)
+- [변유정](https://github.com/HBHBYJYJ) (성균관대학교 시스템경영공학과)
 - [부도현](https://github.com/DohyunBu) (성균관대학교 시스템경영공학과)
 
 

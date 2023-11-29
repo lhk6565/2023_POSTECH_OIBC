@@ -53,22 +53,22 @@ $I_h$ : $h$ 시간대의 예측 인센티브 <br>
 
 ## 제안 방법
 - 다변량 모델과 시계열 모델을 hybrid 하여 $y^{''} = f(y^{'}t)$를 사용하여 문제를 해결하고자 제안
-- 자세한 내용은 [발표 자료](https://github.com/lhk6565/2023_POSTECH_OIBC/blob/main/仁義禮智信_성균관대학교.pdf) 참고 바람
+- 자세한 내용은 [발표 자료](https://github.com/lhk6565/2023_POSTECH_OIBC/blob/main/Presentation_SKKU.pdf) 참고 바람
 
 ## 코드 실행
 - 디렉토리 구성은 다음과 같습니다 :
 ~~~
 root
 │
-├── README.md                               # 디렉토리 안내 파일
+├── README.md                                    # 디렉토리 안내 파일
 │
-├── 仁義禮智信_성균관대학교.pdf               # 발표 자료
+├── Presentation_SKKU.pdf                        # 발표 자료
 │
-├── 仁義禮智信/                              # ipynb 파일 폴더
-    ├── Validation_Dataset.ipynb            # 
-    ├── Train.ipynb                         #     
-    ├── Weight_Inference.ipynb              # 
-    ├── Inference.ipynb                     # 
+└── notebooks/                                   # ipynb 파일 폴더
+    ├── Validation_Dataset.ipynb                 # 
+    ├── Train.ipynb                              #     
+    ├── Weight_Inference.ipynb                   # 
+    └── Inference.ipynb                          # 
 ~~~
 
 ## 느낀점

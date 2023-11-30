@@ -7,7 +7,7 @@
 [2023 POSTECH OIBC CHALLENGE 제5회 태양광 발전량 예측 경진대회](https://o.solarkim.com/cmpt2023)에서 우수상:trophy: (2등 / 119팀)을 받은 성균관대학교 仁義禮智信팀의 발표 자료입니다.
 - [이형권](https://github.com/lhk6565) (성균관대학교 산업공학과)
 - [최승준](https://github.com/swanseacity) (성균관대학교 수학과, 시스템경영공학과)
-- ㅇㅇㅇ (성균관대학교 시스템경영공학과)
+- [김찬호](https://github.com/kimchanhooo) (성균관대학교 시스템경영공학과)
 - [변유정](https://github.com/HBHBYJYJ) (성균관대학교 시스템경영공학과)
 - [부도현](https://github.com/DohyunBu) (성균관대학교 시스템경영공학과)
 

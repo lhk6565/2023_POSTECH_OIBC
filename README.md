@@ -53,12 +53,12 @@ $I_h$ : $h$ 시간대의 예측 인센티브 <br>
 
 ## 제안 방법
 ### Ensemble Architure
-- 날씨 예측값과 모델별 예측값을 활용하여 $Adaptive\;weight\;\bf\hat{w}\,=\,f(x_F,x)$ 추정
+- 날씨 예측값과 모델별 예측값을 활용하여 $Adaptive　weight　\bf\hat{w}=f(x_F,x)$ 추정
 ### Train & Validation Method
-$$L:Loss,\;I:Incentive,\;\alpha:hyperparameter\,(0<\alpha<1)$$
-- 정량적 손실 $L_{quan}\,=\,I_{max}-I_{present}$
-- 정성적 손실 $L_{qual}\,=\,|\bf \hat{w} \cdot x\,-\,y|^{\alpha}$
-- 성능 지표 $S\,=\,(1\,-\,\frac{\sum{I_{present}}}{\sum{I_{max}}})\times100\%$
+$$L:Loss,　I:Incentive,　\alpha:hyperparameter(0<\alpha<1)$$
+- 정량적 손실 $L_{quan}=I_{max}-I_{present}$
+- 정성적 손실 $L_{qual}=|\bf \hat{w} \cdot x-y|^{\alpha}$
+- 성능 지표 $S=(1-\frac{\sum{I_{present}}}{\sum{I_{max}}})\times100\%$
 - 자세한 내용은 [발표 자료](https://github.com/lhk6565/2023_POSTECH_OIBC/blob/main/Presentation_SKKU.pdf) 참고 바람
 
 ## 코드 실행

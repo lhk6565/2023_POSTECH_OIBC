@@ -9,7 +9,7 @@
 - [최승준](https://github.com/swanseacity) (성균관대학교 수학과, 시스템경영공학과)
 - [김찬호](https://github.com/kimchanhooo) (성균관대학교 시스템경영공학과)
 - [변유정](https://github.com/HBHBYJYJ) (성균관대학교 시스템경영공학과)
-- [부도현](https://github.com/DohyunBu) (성균관대학교 시스템경영공학과)
+- [부도현](https://github.com/DohyunBu) (성균관대학교 시스템경영공학과, 소프트웨어학과)
 
 
 ## 대회 소개

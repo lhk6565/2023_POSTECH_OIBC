@@ -53,7 +53,7 @@ $I_h$ : $h$ 시간대의 예측 인센티브 <br>
 
 ## 제안 방법
 ### Ensemble Architure
-- 날씨 예측값과 모델별 예측값을 활용하여 $Adaptive　weight　\bf\hat{w}=f(x_F,x)$ 추정
+- 날씨 예측값과 모델별 예측값을 활용하여 $Adaptive$ $weight$ $\bf\hat{w}=f(x_F,x)$ 추정
 ### Train & Validation Method
 $$L:Loss,　I:Incentive,　\alpha:hyperparameter(0<\alpha<1)$$
 - 정량적 손실 $L_{quan}=I_{max}-I_{present}$

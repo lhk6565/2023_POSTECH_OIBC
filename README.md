@@ -71,10 +71,10 @@ root
 ├── Presentation_SKKU.pdf                        # 발표 자료
 │
 └── notebooks/                                   # ipynb 파일 폴더
-    ├── Validation_Dataset.ipynb                 # 
-    ├── Train.ipynb                              #     
-    ├── Weight_Inference.ipynb                   # 
-    └── Inference.ipynb                          # 
+    ├── Validation_Dataset.ipynb                 # 대회기간 데이터 호출 및 전처리
+    ├── Train.ipynb                              # 모델 학습
+    ├── Weight_Inference.ipynb                   # 모델별 weight 추론
+    └── Inference.ipynb                          # 앙상블 결과값 추론
 ~~~
 
 ## 느낀점
